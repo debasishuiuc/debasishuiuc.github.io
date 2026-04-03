@@ -8,101 +8,269 @@
     body {
       margin: 0;
       font-family: Georgia, "Times New Roman", serif;
-      background: #f7f7f5;
       color: #222;
-      line-height: 1.7;
+      background: #ffffff;
+      line-height: 1.65;
     }
 
-    .container {
-      max-width: 960px;
+    a {
+      color: #1a4f9c;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .page {
+      max-width: 1050px;
       margin: 0 auto;
-      padding: 80px 24px;
+      padding: 0 24px 60px 24px;
+    }
+
+    .topbar {
+      border-bottom: 1px solid #d9d9d9;
+      padding: 18px 0 14px 0;
+      margin-bottom: 34px;
+    }
+
+    .nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 18px;
+      font-size: 1rem;
+    }
+
+    .nav a {
+      color: #333;
     }
 
     .hero {
-      background: white;
-      padding: 56px;
-      border-radius: 16px;
-      box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+      display: grid;
+      grid-template-columns: 1.6fr 0.9fr;
+      gap: 42px;
+      align-items: start;
+      margin-bottom: 40px;
     }
 
     h1 {
-      margin: 0 0 12px 0;
       font-size: 3rem;
+      margin: 0 0 12px 0;
+      font-weight: 700;
       color: #111;
     }
 
     .subtitle {
-      font-size: 1.2rem;
-      color: #555;
-      margin-bottom: 30px;
+      font-size: 1.25rem;
+      margin-bottom: 18px;
+      color: #444;
     }
 
-    p {
+    .affiliation {
+      margin-bottom: 22px;
+      color: #444;
+    }
+
+    .hero p {
       font-size: 1.08rem;
-      margin-bottom: 20px;
+      margin-bottom: 18px;
     }
 
     .links {
-      margin-top: 30px;
+      margin-top: 18px;
+      margin-bottom: 8px;
     }
 
     .links a {
+      margin-right: 16px;
       display: inline-block;
-      margin-right: 18px;
+      margin-bottom: 8px;
+    }
+
+    .photo-box {
+      text-align: center;
+    }
+
+    .photo-box img {
+      width: 100%;
+      max-width: 290px;
+      border: 1px solid #ccc;
+      padding: 6px;
+      background: #fff;
+      box-sizing: border-box;
+    }
+
+    .photo-caption {
+      font-size: 0.95rem;
+      color: #666;
+      margin-top: 10px;
+    }
+
+    hr {
+      border: none;
+      border-top: 1px solid #d9d9d9;
+      margin: 34px 0;
+    }
+
+    h2 {
+      font-size: 1.5rem;
+      margin: 0 0 14px 0;
+      color: #111;
+    }
+
+    .feature {
+      display: grid;
+      grid-template-columns: 1fr 220px;
+      gap: 28px;
+      align-items: start;
+      margin-bottom: 26px;
+    }
+
+    .feature img {
+      width: 100%;
+      border: 1px solid #ccc;
+      padding: 4px;
+      background: #fff;
+      box-sizing: border-box;
+    }
+
+    .small-note {
+      color: #666;
+      font-size: 0.96rem;
+    }
+
+    ul {
+      padding-left: 22px;
+    }
+
+    li {
       margin-bottom: 10px;
-      color: #0b57d0;
-      text-decoration: none;
-      font-weight: 500;
     }
 
-    .links a:hover {
-      text-decoration: underline;
-    }
+    @media (max-width: 850px) {
+      .hero,
+      .feature {
+        grid-template-columns: 1fr;
+      }
 
-    @media (max-width: 700px) {
-      .hero {
-        padding: 32px 24px;
+      .photo-box {
+        text-align: left;
+      }
+
+      .photo-box img {
+        max-width: 240px;
       }
 
       h1 {
-        font-size: 2.2rem;
+        font-size: 2.35rem;
       }
     }
   </style>
 </head>
 <body>
-  <div class="container">
-    <div class="hero">
-      <h1>Debasish Das</h1>
-      <div class="subtitle">
-        Lecturer in Applied Mathematics<br>
-        Department of Mathematics and Statistics, University of Strathclyde
-      </div>
-
-      <p>
-        I work on problems in applied mathematics, fluid mechanics, and scientific computing,
-        with a particular interest in complex and biological fluids, multiphase flows,
-        electrohydrodynamics, active matter, and microorganism locomotion.
-      </p>
-
-      <p>
-        My research is often motivated by simple observations in nature or laboratory experiments,
-        and combines theoretical analysis with numerical simulation. I am also interested in
-        developing new computational methods, and in improving existing ones, for problems in fluid dynamics.
-      </p>
-
-      <p>
-        This website will host information about my research, publications, teaching,
-        collaborators, and current group activities.
-      </p>
-
-      <div class="links">
-        <a href="debasishdas.pdf">CV</a>
-        <a href="https://www.strath.ac.uk/staff/dasdebasishdr/">Strathclyde Profile</a>
-        <a href="mailto:debasish.das@strath.ac.uk">Email</a>
+  <div class="page">
+    <div class="topbar">
+      <div class="nav">
+        <a href="index.html">Home</a>
+        <a href="research.html">Research</a>
+        <a href="publications.html">Publications</a>
+        <a href="teaching.html">Teaching</a>
+        <a href="group.html">Group</a>
+        <a href="cv.html">CV</a>
+        <a href="contact.html">Contact</a>
       </div>
     </div>
+
+    <section class="hero">
+      <div>
+        <h1>Debasish Das</h1>
+        <div class="subtitle">Lecturer in Applied Mathematics</div>
+        <div class="affiliation">
+          Department of Mathematics and Statistics<br>
+          University of Strathclyde
+        </div>
+
+        <p>
+          I work on problems in applied mathematics, fluid mechanics, and scientific
+          computing, with interests in microscale fluid dynamics, active matter,
+          electrohydrodynamics, biological flows, and computational methods for
+          complex fluids.
+        </p>
+
+        <p>
+          My research combines theoretical analysis, asymptotic methods, and numerical
+          simulation. Much of it is motivated by simple physical observations, laboratory
+          experiments, and questions arising in soft matter and biological fluid mechanics.
+        </p>
+
+        <div class="links">
+          <a href="mailto:debasish.das@strath.ac.uk">Email</a>
+          <a href="#">Google Scholar</a>
+          <a href="#">GitHub</a>
+          <a href="https://www.strath.ac.uk/staff/dasdebasishdr/">Strathclyde Profile</a>
+          <a href="#">CV (PDF)</a>
+        </div>
+      </div>
+
+      <div class="photo-box">
+        <img src="photo.jpg" alt="Portrait of Debasish Das">
+        <div class="photo-caption">Add your portrait here later.</div>
+      </div>
+    </section>
+
+    <hr>
+
+    <section>
+      <h2>Research interests</h2>
+      <p>
+        Complex and biological fluids, multiphase flows, electrohydrodynamics, active
+        matter, microorganism locomotion, asymptotic analysis, boundary element methods,
+        and scientific computing.
+      </p>
+    </section>
+
+    <hr>
+
+    <section class="feature">
+      <div>
+        <h2>Selected research</h2>
+        <p>
+          My work spans fluid mechanics at small scales, electrically driven particle
+          dynamics, biological transport, and numerical methods for interfacial and
+          boundary-integral problems. I am particularly interested in the interplay
+          between mathematical structure, physical modelling, and efficient computation.
+        </p>
+        <p>
+          This website will gradually be expanded to include research summaries,
+          publications, teaching materials, software, and group information.
+        </p>
+      </div>
+      <div>
+        <img src="research-image.jpg" alt="Research figure placeholder">
+      </div>
+    </section>
+
+    <hr>
+
+    <section>
+      <h2>Highlights</h2>
+      <ul>
+        <li>Research in fluid mechanics, active matter, and electrohydrodynamics.</li>
+        <li>Development of analytical and numerical methods for complex flow problems.</li>
+        <li>Teaching in applied mathematics and complex variables.</li>
+        <li>Collaborations across mathematics, engineering, and biophysical fluid dynamics.</li>
+      </ul>
+    </section>
+
+    <hr>
+
+    <section>
+      <h2>News</h2>
+      <p class="small-note">
+        You can later use this space for invited talks, new papers, grant news,
+        students, or upcoming events.
+      </p>
+    </section>
   </div>
 </body>
 </html>
