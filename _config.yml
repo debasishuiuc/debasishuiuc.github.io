@@ -1,0 +1,6 @@
+title: Debasish Das
+description: Personal academic website
+url: "https://debasishuiuc.github.io"
+baseurl: ""
+markdown: kramdown
+theme: minima
