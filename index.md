@@ -27,7 +27,7 @@ title: Home
 
     <div class="links">
       <a href="mailto:debasish.das@strath.ac.uk">Email</a>
-      <a href="{{ '/files/debasishdas.pdf' | relative_url }}">CV (PDF)</a>
+      <a href="{{ '/files/debasishdas.pdf' | relative_url }}">CV</a>
       <a href="https://www.strath.ac.uk/staff/dasdebasishdr/">Strathclyde Profile</a>
       <a href="https://scholar.google.com/citations?user=48mN8SQAAAAJ&hl=en">Google Scholar</a>
       <a href="https://www.linkedin.com/in/debasishdas1/">LinkedIn</a>
@@ -40,9 +40,7 @@ title: Home
   </div>
 </section>
 
-<hr>
-
-<section>
+<section class="section-card">
   <h2>News</h2>
   <ul class="news-list">
     <li><strong>Update:</strong> Add your most recent paper, talk, grant, or award here.</li>
@@ -51,9 +49,7 @@ title: Home
   </ul>
 </section>
 
-<hr>
-
-<section>
+<section class="section-card">
   <h2>Research interests</h2>
   <p>
     Complex and biological fluids, multiphase flows, electrohydrodynamics, active
@@ -61,8 +57,6 @@ title: Home
     and scientific computing.
   </p>
 </section>
-
-<hr>
 
 <section class="feature">
   <div>
@@ -83,10 +77,8 @@ title: Home
   </div>
 </section>
 
-<hr>
-
-<section>
-  <h2>Research videos</h2>
+<section class="section-card">
+  <h2>Featured videos</h2>
 
   <div class="video-block">
     <div class="video-text">
@@ -143,9 +135,7 @@ title: Home
   </div>
 </section>
 
-<hr>
-
-<section>
+<section class="section-card">
   <h2>Highlights</h2>
   <ul>
     <li>Research in fluid mechanics, active matter, and electrohydrodynamics.</li>
