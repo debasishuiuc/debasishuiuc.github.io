@@ -4,9 +4,105 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Debasish Das</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Georgia, "Times New Roman", serif;
+      background: #f7f7f5;
+      color: #222;
+      line-height: 1.7;
+    }
+
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 80px 24px;
+    }
+
+    .hero {
+      background: white;
+      padding: 56px;
+      border-radius: 16px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+    }
+
+    h1 {
+      margin: 0 0 12px 0;
+      font-size: 3rem;
+      color: #111;
+    }
+
+    .subtitle {
+      font-size: 1.2rem;
+      color: #555;
+      margin-bottom: 30px;
+    }
+
+    p {
+      font-size: 1.08rem;
+      margin-bottom: 20px;
+    }
+
+    .links {
+      margin-top: 30px;
+    }
+
+    .links a {
+      display: inline-block;
+      margin-right: 18px;
+      margin-bottom: 10px;
+      color: #0b57d0;
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    .links a:hover {
+      text-decoration: underline;
+    }
+
+    @media (max-width: 700px) {
+      .hero {
+        padding: 32px 24px;
+      }
+
+      h1 {
+        font-size: 2.2rem;
+      }
+    }
+  </style>
 </head>
 <body>
-  <h1>Debasish Das</h1>
-  <p>Personal research website coming soon.</p>
+  <div class="container">
+    <div class="hero">
+      <h1>Debasish Das</h1>
+      <div class="subtitle">
+        Lecturer in Applied Mathematics<br>
+        Department of Mathematics and Statistics, University of Strathclyde
+      </div>
+
+      <p>
+        I work on problems in applied mathematics, fluid mechanics, and scientific computing,
+        with a particular interest in complex and biological fluids, multiphase flows,
+        electrohydrodynamics, active matter, and microorganism locomotion.
+      </p>
+
+      <p>
+        My research is often motivated by simple observations in nature or laboratory experiments,
+        and combines theoretical analysis with numerical simulation. I am also interested in
+        developing new computational methods, and in improving existing ones, for problems in fluid dynamics.
+      </p>
+
+      <p>
+        This website will host information about my research, publications, teaching,
+        collaborators, and current group activities.
+      </p>
+
+      <div class="links">
+        <a href="debasishdas.pdf">CV</a>
+        <a href="https://www.strath.ac.uk/staff/dasdebasishdr/">Strathclyde Profile</a>
+        <a href="mailto:debasish.das@strath.ac.uk">Email</a>
+      </div>
+    </div>
+  </div>
 </body>
 </html>
