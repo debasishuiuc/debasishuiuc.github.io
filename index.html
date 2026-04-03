@@ -5,6 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Debasish Das</title>
   <style>
+    html {
+      scroll-behavior: smooth;
+    }
+
     body {
       margin: 0;
       font-family: Georgia, "Times New Roman", serif;
@@ -32,6 +36,10 @@
       border-bottom: 1px solid #d9d9d9;
       padding: 18px 0 14px 0;
       margin-bottom: 34px;
+      position: sticky;
+      top: 0;
+      background: #ffffff;
+      z-index: 100;
     }
 
     .nav {
@@ -57,6 +65,20 @@
       font-size: 3rem;
       margin: 0 0 12px 0;
       font-weight: 700;
+      color: #111;
+    }
+
+    h2 {
+      font-size: 1.5rem;
+      margin: 0 0 14px 0;
+      color: #111;
+      scroll-margin-top: 90px;
+    }
+
+    h3 {
+      margin-top: 0;
+      margin-bottom: 10px;
+      font-size: 1.2rem;
       color: #111;
     }
 
@@ -106,12 +128,6 @@
       margin: 34px 0;
     }
 
-    h2 {
-      font-size: 1.5rem;
-      margin: 0 0 14px 0;
-      color: #111;
-    }
-
     .feature {
       display: grid;
       grid-template-columns: 1fr 220px;
@@ -158,13 +174,6 @@
       margin-bottom: 34px;
     }
 
-    .video-text h3 {
-      margin-top: 0;
-      margin-bottom: 10px;
-      font-size: 1.2rem;
-      color: #111;
-    }
-
     .video-text p {
       margin-bottom: 12px;
     }
@@ -181,6 +190,10 @@
       margin-top: 8px;
       font-size: 0.95rem;
       color: #666;
+    }
+
+    .section-spacer {
+      margin-top: 8px;
     }
 
     @media (max-width: 900px) {
@@ -208,17 +221,17 @@
   <div class="page">
     <div class="topbar">
       <div class="nav">
-        <a href="index.html">Home</a>
-        <a href="research.html">Research</a>
-        <a href="publications.html">Publications</a>
-        <a href="teaching.html">Teaching</a>
-        <a href="group.html">Group</a>
-        <a href="cv.html">CV</a>
-        <a href="contact.html">Contact</a>
+        <a href="#home">Home</a>
+        <a href="#research">Research</a>
+        <a href="#publications">Publications</a>
+        <a href="#teaching">Teaching</a>
+        <a href="#group">Group</a>
+        <a href="files/debasishdas.pdf">CV</a>
+        <a href="#contact">Contact</a>
       </div>
     </div>
 
-    <section class="hero">
+    <section class="hero" id="home">
       <div>
         <h1>Debasish Das</h1>
         <div class="subtitle">Lecturer in Applied Mathematics</div>
@@ -257,7 +270,7 @@
 
     <hr>
 
-    <section>
+    <section id="news">
       <h2>News</h2>
       <ul class="news-list">
         <li><strong>Update:</strong> Add your most recent paper, talk, grant, or award here.</li>
@@ -268,12 +281,12 @@
 
     <hr>
 
-    <section>
-      <h2>Research interests</h2>
+    <section id="research">
+      <h2>Research</h2>
       <p>
-        Complex and biological fluids, multiphase flows, electrohydrodynamics, active
-        matter, microorganism locomotion, asymptotic analysis, boundary element methods,
-        and scientific computing.
+        My research spans complex and biological fluids, multiphase flows,
+        electrohydrodynamics, active matter, microorganism locomotion, asymptotic
+        analysis, boundary element methods, and scientific computing.
       </p>
     </section>
 
@@ -298,7 +311,7 @@
       </div>
     </section>
 
-    <hr>
+    <div class="section-spacer"></div>
 
     <section>
       <h2>Research videos</h2>
@@ -360,14 +373,42 @@
 
     <hr>
 
-    <section>
-      <h2>Highlights</h2>
-      <ul>
-        <li>Research in fluid mechanics, active matter, and electrohydrodynamics.</li>
-        <li>Development of analytical and numerical methods for complex flow problems.</li>
-        <li>Teaching in applied mathematics and complex variables.</li>
-        <li>Collaborations across mathematics, engineering, and biophysical fluid dynamics.</li>
-      </ul>
+    <section id="publications">
+      <h2>Publications</h2>
+      <p>
+        Add your selected publications or a link to a full publication list here.
+      </p>
+    </section>
+
+    <hr>
+
+    <section id="teaching">
+      <h2>Teaching</h2>
+      <p>
+        Add courses, lecture notes, supervision, and other teaching materials here.
+      </p>
+    </section>
+
+    <hr>
+
+    <section id="group">
+      <h2>Group</h2>
+      <p>
+        Add information on students, postdocs, collaborators, and research group activity here.
+      </p>
+    </section>
+
+    <hr>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>
+        Email: <a href="mailto:debasish.das@strath.ac.uk">debasish.das@strath.ac.uk</a>
+      </p>
+      <p>
+        Department of Mathematics and Statistics<br>
+        University of Strathclyde
+      </p>
     </section>
   </div>
 </body>
