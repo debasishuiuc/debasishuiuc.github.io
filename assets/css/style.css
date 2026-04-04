@@ -245,6 +245,7 @@ li {
   background: #fff;
 }
 
+
 .video-block {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(320px, 1fr);
@@ -252,12 +253,19 @@ li {
   align-items: center;
   padding: 24px;
   margin-bottom: 22px;
+  background: #eef3fb;
+  border: 1px solid #d7dfef;
+  border-radius: 16px;
 }
 
 .video-box {
-  padding: 14px;
+  padding: 0;
   border-radius: 16px;
+<<<<<<< HEAD
   background: #e8f1ff;
+=======
+  background: transparent;
+>>>>>>> 13b54bf (Update homepage links and video styling)
 }
 
 .video-box video {
