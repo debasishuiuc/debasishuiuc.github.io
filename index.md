@@ -13,25 +13,24 @@ title: Home
     </div>
 
     <p>
-      I work on problems in applied mathematics, fluid mechanics, and scientific
-      computing, with interests in microscale fluid dynamics, active matter,
-      electrohydrodynamics, biological flows, and computational methods for
+      I work on problems in applied and computational mathematics, with interests
+      in microscale fluid dynamics, active matter, electrohydrodynamics,
+      biological flows, and developing computational methods for
       complex fluids.
     </p>
 
     <p>
-      My research combines theoretical analysis, asymptotic methods, and numerical
-      simulation. Much of it is motivated by simple physical observations, laboratory
+      Many of these problems are motivated by simple physical observations, laboratory
       experiments, and questions arising in soft matter and biological fluid mechanics.
     </p>
 
     <div class="links">
-      <a href="mailto:debasish.das@strath.ac.uk">Email</a>
-      <a href="{{ '/files/debasishdas.pdf' | relative_url }}">CV</a>
-      <a href="https://www.strath.ac.uk/staff/dasdebasishdr/">Strathclyde Profile</a>
-      <a href="https://scholar.google.com/citations?user=48mN8SQAAAAJ&hl=en">Google Scholar</a>
-      <a href="https://www.linkedin.com/in/debasishdas1/">LinkedIn</a>
-      <a href="https://x.com/drdebadas">Twitter/X</a>
+      <a href="mailto:debasish.das@strath.ac.uk">✉️ Email</a>
+      <a href="{{ '/files/debasishdas.pdf' | relative_url }}">📄 CV</a>
+      <a href="https://www.strath.ac.uk/staff/dasdebasishdr/">🏛️ Strathclyde Profile</a>
+      <a href="https://scholar.google.com/citations?user=48mN8SQAAAAJ&hl=en">🎓 Google Scholar</a>
+      <a href="https://www.linkedin.com/in/debasishdas1/">💼 LinkedIn</a>
+      <a href="https://x.com/drdebadas">𝕏 Twitter/X</a>
     </div>
   </div>
 
