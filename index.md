@@ -59,7 +59,7 @@ title: Home
 
 
 <section class="section-card">
-  <h2>Featured simulations</h2>
+  <h2>Featured work</h2>
 
   <div class="video-block">
     <div class="video-text">
@@ -107,7 +107,7 @@ title: Home
         <source src="{{ '/videos/2024_PRR_2_web.mp4' | relative_url }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <div class="video-caption">Trajectory 1</div>
+      <div class="video-caption">Ellipsoidal cell-body: top view</div>
     </div>
 
     <div class="video-gallery-item">
@@ -115,7 +115,7 @@ title: Home
         <source src="{{ '/videos/2024_PRR_3_web.mp4' | relative_url }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <div class="video-caption">Trajectory 2</div>
+      <div class="video-caption">Ellipsoidal cell-body: side view</div>
     </div>
 
     <div class="video-gallery-item">
@@ -123,7 +123,7 @@ title: Home
         <source src="{{ '/videos/2024_PRR_5_web.mp4' | relative_url }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <div class="video-caption">Trajectory 3</div>
+      <div class="video-caption">Spherical cell-body: top view</div>
     </div>
 
     <div class="video-gallery-item">
@@ -131,183 +131,97 @@ title: Home
         <source src="{{ '/videos/2024_PRR_4_web.mp4' | relative_url }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <div class="video-caption">Trajectory 4</div>
+      <div class="video-caption">Spherical cell-body: side view</div>
     </div>
   </div>
 
-  <p class="small-note">
-    Additional simulations from the same paper, showing representative hovering states and near-surface bacterial trajectories. Spehrical shaped bacterial cell body tend to get attracted all the way towards the surface.
-  </p>
+<p class="small-note">
+  Additional simulations from the same paper, showing representative hovering states and near-surface bacterial trajectories. Spherical-shaped bacterial cell bodies tend to get attracted all the way to the surface.
+</p>
+
+
 
   <div class="video-block">
     <div class="video-text">
-      <h3>2023 JFM — Video 1</h3>
-      <p>
-        Add a short description here for the first 2023 JFM simulation.
-      </p>
-      <p class="small-note">
-        Journal of Fluid Mechanics (2023).
-      </p>
+      <h3>A three-dimensional small-deformation theory for electrohydrodynamics of dielectric drops</h3>
+<p>
+  This paper develops a three-dimensional small-deformation theory for dielectric drops in electric fields within the full Melcher–Taylor leaky-dielectric framework. The theory captures both steady deformation in weak fields and the transition to Quincke rotation in stronger fields, where the drop spontaneously tilts and rotates. By retaining both the straining and rotational components of the flow in the surface charge dynamics, the model yields a criterion for the onset of Quincke rotation. The predictions agree well with experiments in the small-deformation regime.
+</p>
+<p class="small-note">
+  D. Das and D. Saintillan, <em>Journal of Fluid Mechanics</em> <strong>914</strong>, A22.
+</p>
     </div>
     <div class="video-box">
       <video controls preload="metadata">
         <source src="{{ '/videos/2023_JFM_1.mp4' | relative_url }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <div class="video-caption">2023 JFM video 1</div>
+      <div class="video-caption">Quincke Rotation</div>
     </div>
   </div>
 
-  <div class="video-block">
-    <div class="video-text">
-      <h3>2023 JFM — Video 2</h3>
-      <p>
-        Add a short description here for the second 2023 JFM simulation.
-      </p>
-      <p class="small-note">
-        Journal of Fluid Mechanics (2023).
-      </p>
-    </div>
-    <div class="video-box">
-      <video controls preload="metadata">
-        <source src="{{ '/videos/2023_JFM_2.mp4' | relative_url }}" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-      <div class="video-caption">2023 JFM video 2</div>
-    </div>
+
+
+
+
+  <div class="video-block video-block-stacked">
+  <div class="video-text video-text-full">
+    <h3>Electrohydrodynamics of viscous drops in strong electric fields: numerical simulations</h3>
+<p>
+  This paper develops a three-dimensional boundary element method for the full leaky-dielectric model to study the deformation and dynamics of viscous drops in strong electric fields. Unlike many earlier simulations, it includes interfacial charge convection and therefore captures non-axisymmetric behaviours in the Quincke regime, where drops undergo symmetry breaking and steady electrorotation. The simulations recover a wide range of dynamical responses and show excellent agreement with both experiments and small-deformation theory. The work provides a detailed numerical framework for understanding drop electrohydrodynamics beyond the weak-field and axisymmetric limits.
+</p>
+<p class="small-note">
+  D. Das and D. Saintillan, <em>Journal of Fluid Mechanics</em> <strong>829</strong>, 127–152 (2017).
+</p>
   </div>
 
-  <div class="video-block">
-    <div class="video-text">
-      <h3>2019 PRL — Video 1</h3>
-      <p>
-        Add a short description here for the first 2019 PRL simulation.
-      </p>
-      <p class="small-note">
-        Physical Review Letters (2019).
-      </p>
-    </div>
+  <div class="video-pair-row">
     <div class="video-box">
       <video controls preload="metadata">
-        <source src="{{ '/videos/2019_PRL_1.mp4' | relative_url }}" type="video/mp4">
+        <source src="{{ '/videos/2017_JFM_3_web.mp4' | relative_url }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <div class="video-caption">2019 PRL video 1</div>
+      <div class="video-caption">Taylor regime: weak electric fields</div>
     </div>
+
+    <div class="video-box">
+      <video controls preload="metadata">
+        <source src="{{ '/videos/2017_JFM_4_web.mp4' | relative_url }}" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="video-caption">Quincke regime: strong electric fields</div>
+    </div>
+  </div>
+</div>
+
+<div class="video-block video-block-stacked">
+  <div class="video-text video-text-full">
+    <h3>Active Particles Powered by Quincke Rotation in a Bulk Fluid</h3>
+    <p>
+      This paper shows that spontaneous Quincke rotation can be converted into translational motion in a bulk fluid without relying on nearby surfaces. Using theory and numerical simulations, it demonstrates that geometric asymmetry alone is sufficient to break symmetry and produce self-propulsion in a plane perpendicular to the applied electric field. The work introduces a new route to electrically driven active particles in unbounded fluids. It also provides a simple model system for exploring active matter powered by Quincke rotation.
+    </p>
+    <p class="small-note">
+      D. Das and E. Lauga, <em>Physical Review Letters</em> <strong>122</strong>, 194503 (2019).
+    </p>
   </div>
 
-  <div class="video-block">
-    <div class="video-text">
-      <h3>2019 PRL — Video 2</h3>
-      <p>
-        Add a short description here for the second 2019 PRL simulation.
-      </p>
-      <p class="small-note">
-        Physical Review Letters (2019).
-      </p>
-    </div>
+  <div class="video-pair-row">
     <div class="video-box">
       <video controls preload="metadata">
-        <source src="{{ '/videos/2019_PRL_2.mp4' | relative_url }}" type="video/mp4">
+        <source src="{{ '/videos/2019_PRL_1_web.mp4' | relative_url }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <div class="video-caption">2019 PRL video 2</div>
+      <div class="video-caption">A chiral object like a helix translates spontaneously due to Quincke rotation while a non-chiral object like a cylinder does not.</div>
     </div>
-  </div>
 
-  <div class="video-block">
-    <div class="video-text">
-      <h3>2017 JFM — Video 1</h3>
-      <p>
-        Add a short description of the physical problem, what is shown in the
-        simulation, and the main scientific point.
-      </p>
-      <p class="small-note">
-        Journal of Fluid Mechanics (2017).
-      </p>
-    </div>
     <div class="video-box">
       <video controls preload="metadata">
-        <source src="{{ '/videos/2017_JFM_1.mp4' | relative_url }}" type="video/mp4">
+        <source src="{{ '/videos/2019_PRL_2_web.mp4' | relative_url }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <div class="video-caption">2017 JFM video 1</div>
+      <div class="video-caption">There is a certain thickness at which optimum swimming speed is achieved.</div>
     </div>
   </div>
+</div>
 
-  <div class="video-block">
-    <div class="video-text">
-      <h3>2017 JFM — Video 2</h3>
-      <p>
-        Add a short description here for the second 2017 JFM simulation.
-      </p>
-      <p class="small-note">
-        Journal of Fluid Mechanics (2017).
-      </p>
-    </div>
-    <div class="video-box">
-      <video controls preload="metadata">
-        <source src="{{ '/videos/2017_JFM_2.mp4' | relative_url }}" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-      <div class="video-caption">2017 JFM video 2</div>
-    </div>
-  </div>
-
-  <div class="video-block">
-    <div class="video-text">
-      <h3>2017 JFM — Video 3</h3>
-      <p>
-        Add a short description here for the third 2017 JFM simulation.
-      </p>
-      <p class="small-note">
-        Journal of Fluid Mechanics (2017).
-      </p>
-    </div>
-    <div class="video-box">
-      <video controls preload="metadata">
-        <source src="{{ '/videos/2017_JFM_3.mp4' | relative_url }}" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-      <div class="video-caption">2017 JFM video 3</div>
-    </div>
-  </div>
-
-  <div class="video-block">
-    <div class="video-text">
-      <h3>2017 JFM — Video 4</h3>
-      <p>
-        Add a short description here for the fourth 2017 JFM simulation.
-      </p>
-      <p class="small-note">
-        Journal of Fluid Mechanics (2017).
-      </p>
-    </div>
-    <div class="video-box">
-      <video controls preload="metadata">
-        <source src="{{ '/videos/2017_JFM_4.mp4' | relative_url }}" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-      <div class="video-caption">2017 JFM video 4</div>
-    </div>
-  </div>
-
-  <div class="video-block">
-    <div class="video-text">
-      <h3>Taylor flow — real-time Gerris simulation</h3>
-      <p>
-        Add a short description here for the Taylor flow / Gerris simulation.
-      </p>
-      <p class="small-note">
-        Real-time simulation.
-      </p>
-    </div>
-    <div class="video-box">
-      <video controls preload="metadata">
-        <source src="{{ '/videos/taylor_realtime_Gerris.mp4' | relative_url }}" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-      <div class="video-caption">Taylor real-time Gerris simulation</div>
-    </div>
-  </div>
 </section>
