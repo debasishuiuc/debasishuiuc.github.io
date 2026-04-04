@@ -175,8 +175,7 @@ a:hover {
 }
 
 .section-card,
-.feature,
-.video-block {
+.feature {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius);
@@ -245,7 +244,6 @@ li {
   background: #fff;
 }
 
-
 .video-block {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(320px, 1fr);
@@ -277,8 +275,6 @@ li {
   color: var(--muted);
   font-size: 0.95rem;
 }
-
-
 
 .site-footer {
   border-top: 1px solid var(--border);
