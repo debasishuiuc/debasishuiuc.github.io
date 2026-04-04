@@ -261,11 +261,7 @@ li {
 .video-box {
   padding: 0;
   border-radius: 16px;
-<<<<<<< HEAD
-  background: #e8f1ff;
-=======
   background: transparent;
->>>>>>> 13b54bf (Update homepage links and video styling)
 }
 
 .video-box video {
@@ -281,6 +277,8 @@ li {
   color: var(--muted);
   font-size: 0.95rem;
 }
+
+
 
 .site-footer {
   border-top: 1px solid var(--border);
