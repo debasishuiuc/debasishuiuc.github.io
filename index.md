@@ -63,12 +63,14 @@ title: Home
 
   <div class="video-block">
     <div class="video-text">
-      <h3>2025 PNAS — Video 1</h3>
+      <h3>Cilia dynamics create a dynamic barrier to penetration of the periciliary layer in human airway epithelia</h3>
       <p>
-        Add a short description here for the 2025 PNAS simulation.
+        The study develops a fluorescence-based method to measure fluid flow inside the periciliary layer of the human airway, where direct observation is usually very difficult.
+        The experiments show that transport within this layer is vertically nonuniform and that cilia actively expel fluid near their tips, which may help protect the epithelium from pathogens.
+        Numerical simulations support these observations and highlight the importance of cilia geometry and coordination in shaping respiratory fluid transport.
       </p>
       <p class="small-note">
-        Proceedings of the National Academy of Sciences (2025).
+        E. Causa, D. Das, L. Feriani, J. Kotar, and P. Cicuta, <em>Proceedings of the National Academy of Sciences</em> <strong>122</strong> (28), e2419032122 (2025).
       </p>
     </div>
     <div class="video-box">
@@ -76,18 +78,18 @@ title: Home
         <source src="{{ '/videos/2025_PNAS_1.mp4' | relative_url }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <div class="video-caption">2025 PNAS video 1</div>
+      <div class="video-caption">Flow above cilia</div>
     </div>
   </div>
 
   <div class="video-block">
     <div class="video-text">
-      <h3>2024 PRR — Video 1</h3>
+      <h3>Hydrodynamic hovering of swimming bacteria above surfaces</h3>
       <p>
-        Add a short description here for the first 2024 PRR simulation.
+        Flagellated bacteria are hydrodynamically attracted to rigid walls, yet past work shows a “hovering” state where they swim stably at a finite height above surfaces. We use numerics and theory to reveal the physical origin of hovering. Simulations first show that hovering requires an elongated cell body and results from a tilt away from the wall. Theoretical models then identify two essential asymmetries: the response of width-asymmetric cells to active flows created by length-asymmetric cells. A minimal model reconciles near- and far-field hydrodynamics, capturing all key features of hovering.
       </p>
       <p class="small-note">
-        Physical Review Research (2024).
+        P. H. Htet, D. Das, and E. Lauga, <em>Physical Review Research</em> <strong>6</strong> (3), L032070 (2024).
       </p>
     </div>
     <div class="video-box">
@@ -95,85 +97,47 @@ title: Home
         <source src="{{ '/videos/2024_PRR.mp4' | relative_url }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <div class="video-caption">2024 PRR video 1</div>
+      <div class="video-caption">Bacteria hovering</div>
     </div>
   </div>
 
-  <div class="video-block">
-    <div class="video-text">
-      <h3>2024 PRR — Video 2</h3>
-      <p>
-        Add a short description here for the second 2024 PRR simulation.
-      </p>
-      <p class="small-note">
-        Physical Review Research (2024).
-      </p>
-    </div>
-    <div class="video-box">
+  <div class="video-gallery-row">
+    <div class="video-gallery-item">
       <video controls preload="metadata">
         <source src="{{ '/videos/2024_PRR_2.mp4' | relative_url }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <div class="video-caption">2024 PRR video 2</div>
+      <div class="video-caption">Trajectory 1</div>
     </div>
-  </div>
 
-  <div class="video-block">
-    <div class="video-text">
-      <h3>2024 PRR — Video 3</h3>
-      <p>
-        Add a short description here for the third 2024 PRR simulation.
-      </p>
-      <p class="small-note">
-        Physical Review Research (2024).
-      </p>
-    </div>
-    <div class="video-box">
+    <div class="video-gallery-item">
       <video controls preload="metadata">
         <source src="{{ '/videos/2024_PRR_3.mp4' | relative_url }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <div class="video-caption">2024 PRR video 3</div>
+      <div class="video-caption">Trajectory 2</div>
     </div>
-  </div>
 
-  <div class="video-block">
-    <div class="video-text">
-      <h3>2024 PRR — Video 4</h3>
-      <p>
-        Add a short description here for the fourth 2024 PRR simulation.
-      </p>
-      <p class="small-note">
-        Physical Review Research (2024).
-      </p>
-    </div>
-    <div class="video-box">
+    <div class="video-gallery-item">
       <video controls preload="metadata">
         <source src="{{ '/videos/2024_PRR_4.mp4' | relative_url }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <div class="video-caption">2024 PRR video 4</div>
+      <div class="video-caption">Trajectory 3</div>
     </div>
-  </div>
 
-  <div class="video-block">
-    <div class="video-text">
-      <h3>2024 PRR — Video 5</h3>
-      <p>
-        Add a short description here for the fifth 2024 PRR simulation.
-      </p>
-      <p class="small-note">
-        Physical Review Research (2024).
-      </p>
-    </div>
-    <div class="video-box">
+    <div class="video-gallery-item">
       <video controls preload="metadata">
         <source src="{{ '/videos/2024_PRR_5.mp4' | relative_url }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <div class="video-caption">2024 PRR video 5</div>
+      <div class="video-caption">Trajectory 4</div>
     </div>
   </div>
+
+  <p class="small-note">
+    Additional simulations from the same paper, showing representative hovering states and near-surface bacterial trajectories.
+  </p>
 
   <div class="video-block">
     <div class="video-text">
