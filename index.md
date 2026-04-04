@@ -63,13 +63,13 @@ title: Home
 
   <div class="video-block">
     <div class="video-text">
-      <h3>Project title or paper title</h3>
+      <h3>2017 JFM — Video 1</h3>
       <p>
-        Add a short description here. This space is for a few lines explaining the
-        physical problem, the model, the simulation, or the main scientific point.
+        Add a short description of the physical problem, what is shown in the
+        simulation, and the main scientific point.
       </p>
       <p class="small-note">
-        You can also add the journal name, year, and a link to the paper.
+        Journal of Fluid Mechanics (2017).
       </p>
     </div>
     <div class="video-box">
@@ -83,10 +83,12 @@ title: Home
 
   <div class="video-block">
     <div class="video-text">
-      <h3>Project title or paper title</h3>
+      <h3>2017 JFM — Video 2</h3>
       <p>
-        Add text here for the second video. You may want to describe what is being
-        visualized, what parameters are being varied, or what the key result is.
+        Add a short description here for the second 2017 JFM simulation.
+      </p>
+      <p class="small-note">
+        Journal of Fluid Mechanics (2017).
       </p>
     </div>
     <div class="video-box">
@@ -100,10 +102,126 @@ title: Home
 
   <div class="video-block">
     <div class="video-text">
-      <h3>Project title or paper title</h3>
+      <h3>2017 JFM — Video 3</h3>
       <p>
-        Add text here for the third video. You can gradually replace these placeholders
-        with proper summaries as the site develops.
+        Add a short description here for the third 2017 JFM simulation.
+      </p>
+      <p class="small-note">
+        Journal of Fluid Mechanics (2017).
+      </p>
+    </div>
+    <div class="video-box">
+      <video controls preload="metadata">
+        <source src="{{ '/videos/2017_JFM_3.mp4' | relative_url }}" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="video-caption">2017 JFM video 3</div>
+    </div>
+  </div>
+
+  <div class="video-block">
+    <div class="video-text">
+      <h3>2017 JFM — Video 4</h3>
+      <p>
+        Add a short description here for the fourth 2017 JFM simulation.
+      </p>
+      <p class="small-note">
+        Journal of Fluid Mechanics (2017).
+      </p>
+    </div>
+    <div class="video-box">
+      <video controls preload="metadata">
+        <source src="{{ '/videos/2017_JFM_4.mp4' | relative_url }}" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="video-caption">2017 JFM video 4</div>
+    </div>
+  </div>
+
+  <div class="video-block">
+    <div class="video-text">
+      <h3>2019 PRL — Video 1</h3>
+      <p>
+        Add a short description here for the first 2019 PRL simulation.
+      </p>
+      <p class="small-note">
+        Physical Review Letters (2019).
+      </p>
+    </div>
+    <div class="video-box">
+      <video controls preload="metadata">
+        <source src="{{ '/videos/2019_PRL_1.mp4' | relative_url }}" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="video-caption">2019 PRL video 1</div>
+    </div>
+  </div>
+
+  <div class="video-block">
+    <div class="video-text">
+      <h3>2019 PRL — Video 2</h3>
+      <p>
+        Add a short description here for the second 2019 PRL simulation.
+      </p>
+      <p class="small-note">
+        Physical Review Letters (2019).
+      </p>
+    </div>
+    <div class="video-box">
+      <video controls preload="metadata">
+        <source src="{{ '/videos/2019_PRL_2.mp4' | relative_url }}" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="video-caption">2019 PRL video 2</div>
+    </div>
+  </div>
+
+  <div class="video-block">
+    <div class="video-text">
+      <h3>2023 JFM — Video 1</h3>
+      <p>
+        Add a short description here for the first 2023 JFM simulation.
+      </p>
+      <p class="small-note">
+        Journal of Fluid Mechanics (2023).
+      </p>
+    </div>
+    <div class="video-box">
+      <video controls preload="metadata">
+        <source src="{{ '/videos/2023_JFM_1.mp4' | relative_url }}" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="video-caption">2023 JFM video 1</div>
+    </div>
+  </div>
+
+  <div class="video-block">
+    <div class="video-text">
+      <h3>2023 JFM — Video 2</h3>
+      <p>
+        Add a short description here for the second 2023 JFM simulation.
+      </p>
+      <p class="small-note">
+        Journal of Fluid Mechanics (2023).
+      </p>
+    </div>
+    <div class="video-box">
+      <video controls preload="metadata">
+        <source src="{{ '/videos/2023_JFM_2.mp4' | relative_url }}" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="video-caption">2023 JFM video 2</div>
+    </div>
+  </div>
+
+  <div class="video-block">
+    <div class="video-text">
+      <h3>2024 PRR — Video 1</h3>
+      <p>
+        Add a short description here for the first 2024 PRR simulation.
+      </p>
+      <p class="small-note">
+        Physical Review Research (2024).
       </p>
     </div>
     <div class="video-box">
@@ -111,7 +229,121 @@ title: Home
         <source src="{{ '/videos/2024_PRR.mp4' | relative_url }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <div class="video-caption">2024 PRR video</div>
+      <div class="video-caption">2024 PRR video 1</div>
+    </div>
+  </div>
+
+  <div class="video-block">
+    <div class="video-text">
+      <h3>2024 PRR — Video 2</h3>
+      <p>
+        Add a short description here for the second 2024 PRR simulation.
+      </p>
+      <p class="small-note">
+        Physical Review Research (2024).
+      </p>
+    </div>
+    <div class="video-box">
+      <video controls preload="metadata">
+        <source src="{{ '/videos/2024_PRR_2.mp4' | relative_url }}" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="video-caption">2024 PRR video 2</div>
+    </div>
+  </div>
+
+  <div class="video-block">
+    <div class="video-text">
+      <h3>2024 PRR — Video 3</h3>
+      <p>
+        Add a short description here for the third 2024 PRR simulation.
+      </p>
+      <p class="small-note">
+        Physical Review Research (2024).
+      </p>
+    </div>
+    <div class="video-box">
+      <video controls preload="metadata">
+        <source src="{{ '/videos/2024_PRR_3.mp4' | relative_url }}" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="video-caption">2024 PRR video 3</div>
+    </div>
+  </div>
+
+  <div class="video-block">
+    <div class="video-text">
+      <h3>2024 PRR — Video 4</h3>
+      <p>
+        Add a short description here for the fourth 2024 PRR simulation.
+      </p>
+      <p class="small-note">
+        Physical Review Research (2024).
+      </p>
+    </div>
+    <div class="video-box">
+      <video controls preload="metadata">
+        <source src="{{ '/videos/2024_PRR_4.mp4' | relative_url }}" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="video-caption">2024 PRR video 4</div>
+    </div>
+  </div>
+
+  <div class="video-block">
+    <div class="video-text">
+      <h3>2024 PRR — Video 5</h3>
+      <p>
+        Add a short description here for the fifth 2024 PRR simulation.
+      </p>
+      <p class="small-note">
+        Physical Review Research (2024).
+      </p>
+    </div>
+    <div class="video-box">
+      <video controls preload="metadata">
+        <source src="{{ '/videos/2024_PRR_5.mp4' | relative_url }}" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="video-caption">2024 PRR video 5</div>
+    </div>
+  </div>
+
+  <div class="video-block">
+    <div class="video-text">
+      <h3>2025 PNAS — Video 1</h3>
+      <p>
+        Add a short description here for the 2025 PNAS simulation.
+      </p>
+      <p class="small-note">
+        Proceedings of the National Academy of Sciences (2025).
+      </p>
+    </div>
+    <div class="video-box">
+      <video controls preload="metadata">
+        <source src="{{ '/videos/2025_PNAS_1.mp4' | relative_url }}" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="video-caption">2025 PNAS video 1</div>
+    </div>
+  </div>
+
+  <div class="video-block">
+    <div class="video-text">
+      <h3>Taylor flow — real-time Gerris simulation</h3>
+      <p>
+        Add a short description here for the Taylor flow / Gerris simulation.
+      </p>
+      <p class="small-note">
+        Real-time simulation.
+      </p>
+    </div>
+    <div class="video-box">
+      <video controls preload="metadata">
+        <source src="{{ '/videos/taylor_realtime_Gerris.mp4' | relative_url }}" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="video-caption">Taylor real-time Gerris simulation</div>
     </div>
   </div>
 </section>
