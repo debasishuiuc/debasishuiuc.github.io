@@ -24,6 +24,11 @@ title: Home
       experiments, and questions arising in soft matter and biological fluid mechanics.
     </p>
 
+    <p>
+      We are always looking for motivated students and post-doctoral researchers to work with, and
+      exploring new collaboration opportunities with established reseach groups.
+    </p>
+
     <div class="links">
       <a href="mailto:debasish.das@strath.ac.uk">✉️ Email</a>
       <a href="{{ '/files/debasishdas.pdf' | relative_url }}">📄 CV</a>
@@ -42,15 +47,19 @@ title: Home
 <section class="section-card">
   <h2>News</h2>
   <ul class="news-list">
-    <li><strong>Update:</strong> Add your most recent paper, talk, grant, or award here.</li>
-    <li><strong>Update:</strong> Add a short line on a new preprint, invited seminar, or collaboration.</li>
-    <li><strong>Update:</strong> Add announcements on students, conferences, or media coverage.</li>
+    <li><strong>Mar 2026:</strong> The group has received funding from the <a href="https://www.leverhulme.ac.uk/" target="_blank" rel="noopener noreferrer">Leverhulme Trust</a>, which will support an international PhD student and a Postdoctoral Research Associate for a period of three years. Interested candidates are encouraged to email me for further information about the project.</li>
+    <li><strong>Feb 2026:</strong> Michael has started a new position as a systems engineer at Leonardo in Edinburgh. Congratulations, Michael!</li>
+    <li><strong>Jan 2026:</strong> Debasish gave a research talk in the Department of Chemical Engineering at Stanford.</li>
+    <li><strong>Oct 2025:</strong> Debasish will be teaching a new course on Asymptotic Methods for the Scottish Mathematical Sciences Training Centre (SMSTC). Interested students enrolled at Scottish universities should register via the <a href="https://smstc.ac.uk/" target="_blank" rel="noopener noreferrer">SMSTC website</a>.</li>
+    <li><strong>Jul 2025:</strong> Debasish gave an invited talk at the 9th International Conference on Micro- and Nano Flows (MNF 2025), held in Edinburgh.</li>
+    <li><strong>Jul 2025:</strong> The work on cilia was highlighted in <a href="https://www.strath.ac.uk/whystrathclyde/news/2025/lungcilia/" target="_blank" rel="noopener noreferrer">Strathclyde News</a> and received press coverage in the national Indian newspaper <em>The Statesman</em>.</li>
+    <li><strong>Jul 2025:</strong> New collaborative work with the Cicuta Lab, Cambridge, on cilia dynamics has been accepted for publication in PNAS.</li>
   </ul>
 </section>
 
 
 <section class="section-card">
-  <h2>Featured videos</h2>
+  <h2>Featured simulations</h2>
 
   <div class="video-block">
     <div class="video-text">
