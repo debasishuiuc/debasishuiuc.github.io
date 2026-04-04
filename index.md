@@ -48,33 +48,6 @@ title: Home
   </ul>
 </section>
 
-<section class="section-card">
-  <h2>Research interests</h2>
-  <p>
-    Complex and biological fluids, multiphase flows, electrohydrodynamics, active
-    matter, microorganism locomotion, asymptotic analysis, boundary element methods,
-    and scientific computing.
-  </p>
-</section>
-
-<section class="feature">
-  <div>
-    <h2>Selected research</h2>
-    <p>
-      My work spans fluid mechanics at small scales, electrically driven particle
-      dynamics, biological transport, and numerical methods for interfacial and
-      boundary-integral problems. I am particularly interested in the interplay
-      between mathematical structure, physical modelling, and efficient computation.
-    </p>
-    <p>
-      This website will gradually be expanded to include research summaries,
-      publications, teaching materials, software, and group information.
-    </p>
-  </div>
-  <div>
-    <img src="{{ '/images/hovering_bacteria.png' | relative_url }}" alt="Research figure">
-  </div>
-</section>
 
 <section class="section-card">
   <h2>Featured videos</h2>
@@ -132,14 +105,4 @@ title: Home
       <div class="video-caption">2024 PRR video</div>
     </div>
   </div>
-</section>
-
-<section class="section-card">
-  <h2>Highlights</h2>
-  <ul>
-    <li>Research in fluid mechanics, active matter, and electrohydrodynamics.</li>
-    <li>Development of analytical and numerical methods for complex flow problems.</li>
-    <li>Teaching in applied mathematics and complex variables.</li>
-    <li>Collaborations across mathematics, engineering, and biophysical fluid dynamics.</li>
-  </ul>
 </section>
