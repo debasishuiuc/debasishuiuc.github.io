@@ -104,7 +104,7 @@ title: Home
   <div class="video-gallery-row">
     <div class="video-gallery-item">
       <video controls preload="metadata">
-        <source src="{{ '/videos/2024_PRR_2.mp4' | relative_url }}" type="video/mp4">
+        <source src="{{ '/videos/2024_PRR_2_web.mp4' | relative_url }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
       <div class="video-caption">Trajectory 1</div>
@@ -112,7 +112,7 @@ title: Home
 
     <div class="video-gallery-item">
       <video controls preload="metadata">
-        <source src="{{ '/videos/2024_PRR_3.mp4' | relative_url }}" type="video/mp4">
+        <source src="{{ '/videos/2024_PRR_3_web.mp4' | relative_url }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
       <div class="video-caption">Trajectory 2</div>
@@ -120,7 +120,7 @@ title: Home
 
     <div class="video-gallery-item">
       <video controls preload="metadata">
-        <source src="{{ '/videos/2024_PRR_4.mp4' | relative_url }}" type="video/mp4">
+        <source src="{{ '/videos/2024_PRR_5_web.mp4' | relative_url }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
       <div class="video-caption">Trajectory 3</div>
@@ -128,7 +128,7 @@ title: Home
 
     <div class="video-gallery-item">
       <video controls preload="metadata">
-        <source src="{{ '/videos/2024_PRR_5.mp4' | relative_url }}" type="video/mp4">
+        <source src="{{ '/videos/2024_PRR_4_web.mp4' | relative_url }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
       <div class="video-caption">Trajectory 4</div>
@@ -136,7 +136,7 @@ title: Home
   </div>
 
   <p class="small-note">
-    Additional simulations from the same paper, showing representative hovering states and near-surface bacterial trajectories.
+    Additional simulations from the same paper, showing representative hovering states and near-surface bacterial trajectories. Spehrical shaped bacterial cell body tend to get attracted all the way towards the surface.
   </p>
 
   <div class="video-block">
