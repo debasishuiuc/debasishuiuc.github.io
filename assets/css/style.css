@@ -387,6 +387,18 @@ li {
   padding: 34px;
 }
 
+.video-rotator {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.video-rotator video {
+  width: 100%;
+  border-radius: 10px;
+  display: block;
+}
+
 /* Tablet / medium screens */
 @media (max-width: 920px) {
   .header-inner,

@@ -3,21 +3,20 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{{ site.description }}">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
   <header class="site-header">
     <div class="container header-inner">
-      <a class="site-brand" href="{{ '/' | relative_url }}">Debasish Das</a>
+      <a class="site-brand" href="{{ '/' | relative_url }}">Complex Fluids and Biological Systems at the Microscale</a>
       <nav class="site-nav">
         <a href="{{ '/' | relative_url }}">Home</a>
         <a href="{{ '/research/' | relative_url }}">Research</a>
         <a href="{{ '/publications/' | relative_url }}">Publications</a>
         <a href="{{ '/teaching/' | relative_url }}">Teaching</a>
-        <a href="{{ '/group/' | relative_url }}">Group</a>
-        <a href="{{ '/cv/' | relative_url }}">CV</a>
+        <a href="{{ '/people/' | relative_url }}">People</a>
         <a href="{{ '/contact/' | relative_url }}">Contact</a>
       </nav>
     </div>
@@ -37,8 +36,10 @@
       <div class="footer-links">
         <a href="mailto:debasish.das@strath.ac.uk">Email</a>
         <a href="{{ '/files/debasishdas.pdf' | relative_url }}">CV</a>
+        <a href="https://www.strath.ac.uk/staff/dasdebasishdr/">Strathclyde Profile</a>
         <a href="https://scholar.google.com/citations?user=48mN8SQAAAAJ&hl=en">Google Scholar</a>
         <a href="https://www.linkedin.com/in/debasishdas1/">LinkedIn</a>
+        <a href="https://x.com/drdebadas">Twitter/X</a>
       </div>
     </div>
   </footer>
