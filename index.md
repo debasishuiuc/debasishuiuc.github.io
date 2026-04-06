@@ -42,7 +42,7 @@ title: Home
 <section class="section-card" style="background: #f3e6d8;">
   <h2>News</h2>
   <ul class="news-list">
-    <li><strong>Mar 2026:</strong> The group has received funding from the <a href="https://www.leverhulme.ac.uk/" target="_blank" rel="noopener noreferrer">Leverhulme Trust</a>, which will support an international PhD student and a Postdoctoral Research Associate for a period of three years. Interested candidates are encouraged to email me for further information about the project.</li>
+    <li><strong>Mar 2026:</strong> The group has received funding from the <a href="https://www.leverhulme.ac.uk/" target="_blank" rel="noopener noreferrer">Leverhulme Trust</a>. Applications are invited for a fully-funded <strong>PhD</strong> (international students are eligible) and <strong>PDRA</strong> position. <a href="{{ '/openings/' | relative_url }}">Click here for details.</a> Interested candidates are encouraged to contact me by email for further information about the project.</li>
     <li><strong>Feb 2026:</strong> Michael has started a new position as a systems engineer at Leonardo in Edinburgh. Congratulations, Michael!</li>
     <li><strong>Jan 2026:</strong> Debasish gave a research talk in the Department of Chemical Engineering at Stanford.</li>
     <li><strong>Oct 2025:</strong> Debasish will be teaching a new course on Asymptotic Methods for the Scottish Mathematical Sciences Training Centre (SMSTC). Interested students enrolled at Scottish universities should register via the <a href="https://smstc.ac.uk/" target="_blank" rel="noopener noreferrer">SMSTC website</a>.</li>
