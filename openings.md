@@ -63,7 +63,7 @@ permalink: /openings/
     <h3>Essential information</h3>
     <ul>
       <li>The position is available for two years in the first instance, with the possibility of extension to a total of three years, subject to satisfactory performance.</li>
-      <li>Applications are also welcome from candidates who are close to PhD completion or whose award is pending. In such cases, the appointment will initially be made at Research Assistant level (grade 6) until the PhD award is confirmed.</li>
+      <li>Applications are welcome from both recent PhD graduates and candidates with postdoctoral research experience. Applications are also welcome from candidates who are close to PhD completion or whose award is pending. In such cases, the appointment will initially be made at Research Assistant level (grade 6) until the PhD award is confirmed.</li>
     </ul>
 
     <h3>Desirable background and experience</h3>
