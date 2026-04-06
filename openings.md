@@ -74,11 +74,28 @@ permalink: /openings/
     </ul>
 
     <h3>How to apply</h3>
-    <p>A university job advert for the PDRA position will be live soon. Applicants are encouraged to consult the official advert once available for the formal university wording and application procedure.</p>
+    <p>A university job advert for the PDRA position will be live soon. Applicants are encouraged to consult the official advert once available for the formal university wording and application procedure. Informal enquiries are welcome. </p>
 
     <h3>Application timeline</h3>
-    <p style="margin-bottom: 0;"><strong>Formal interviews for the PDRA post will be held before mid June 2026.</strong></p>
+    <p style="margin-bottom: 0;"><strong>Formal interviews for the PDRA post will be held around mid June 2026.</strong></p>
   </div>
+  
+  
+  <div style="background: #f3e6d8; border-radius: 16px; padding: 24px; margin-bottom: 28px;">
+    <h2 style="margin-top: 0;">Additional PhD opportunities via JARSS</h2>
+
+    <p>
+      In addition to the Leverhulme-funded PhD position advertised above, there are further PhD opportunities through the <strong>John Anderson Research Studentship Scheme (JARSS)</strong> at the University of Strathclyde.
+    </p>
+
+    <p>
+      This scheme supports outstanding doctoral applicants and is intended for candidates who qualify as <strong>UK home students</strong>.
+    </p>
+
+    <p style="margin-bottom: 0;">
+      I have multiple PhD projects suitable for this scheme. Interested students are encouraged to email me for further details.
+    </p>
+  </div>  
 
   <div style="background: #f3e6d8; border-radius: 16px; padding: 24px; margin-bottom: 28px;">
     <h2 style="margin-top: 0;">Informal enquiries</h2>
