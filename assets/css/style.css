@@ -399,6 +399,19 @@ li {
   display: block;
 }
 
+.pub-list li {
+  margin-bottom: 1.2rem;
+}
+
+.pub-title {
+  margin-bottom: 0.15rem;
+  line-height: 1.35;
+}
+
+.pub-details {
+  line-height: 1.5;
+}
+
 /* Tablet / medium screens */
 @media (max-width: 920px) {
   .header-inner,

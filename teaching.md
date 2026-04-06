@@ -16,9 +16,9 @@ permalink: /teaching/
   <div style="background: #f3e6d8; border-radius: 16px; padding: 24px; margin-bottom: 28px;">
     <h2 style="margin-top: 0;">Lecturer, University of Strathclyde</h2>
     <ul style="margin-bottom: 0;">
-      <li>Fall 2025-present: Asymptotic and Analytical Methods</li>
-      <li>Spring 2023-present: Mathematical Introduction to Network Theory</li>
-      <li>Spring 2021-present: Complex Variables and Integral Transforms</li>
+      <li>Fall 2025&ndash;present: Asymptotic and Analytical Methods</li>
+      <li>Spring 2023&ndash;present: Mathematical Introduction to Network Theory</li>
+      <li>Spring 2021&ndash;present: Complex Variables and Integral Transforms</li>
     </ul>
   </div>
 

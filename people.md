@@ -17,7 +17,7 @@ permalink: /people/
 
         <p>
           Debasish is a Lecturer in Applied Mathematics in the Department of Mathematics and Statistics at the University of
-          Strathclyde. He completed PhD in Mechanical Engineering at the University of California San Diego in 2016,
+          Strathclyde. He completed a PhD in Mechanical Engineering at the University of California San Diego in 2016,
           and subsequently held postdoctoral positions at the University of Cambridge. Before moving to UC San Diego,
           he studied at the University of Illinois Urbana–Champaign, where he completed an MS in Mechanical Science and
           Engineering with specialisation in Computational Science and Engineering and also undertook doctoral study. 

@@ -4,23 +4,28 @@ title: Home
 ---
 
 <section class="hero" style="display: block; background: #f3e6d8;">
-    <div style="max-width: 100%;">
+  <div style="max-width: 100%;">
     <div style="text-align: center;">
       <h1>Complex Fluids and Biological Systems at the Microscale</h1>
-      <div class="subtitle">Applied and Computational Mathematics Group</div>
+      <div class="subtitle">
+        <a href="https://www.strath.ac.uk/research/subjects/mathematicsstatistics/appliedcomputationalmathematics/" target="_blank" rel="noopener noreferrer">Applied and Computational Mathematics Group</a>
+      </div>
       <div class="affiliation">
-        Department of Mathematics and Statistics<br>
-        University of Strathclyde
+        <a href="https://www.strath.ac.uk/science/mathematicsstatistics/" target="_blank" rel="noopener noreferrer">Department of Mathematics and Statistics</a><br>
+        <a href="https://www.strath.ac.uk/" target="_blank" rel="noopener noreferrer">University of Strathclyde</a>
       </div>
     </div>
 
     <p>
-	Our group works on problems in microscale fluid dynamics, active matter, electrohydrodynamics, and biological flows, with a particular emphasis on developing novel computational methods for complex fluids. Many of these problems are motivated by simple physical observations, laboratory experiments, and fundamental questions arising in soft matter and biological fluid mechanics.
+      Our group works on problems in microscale fluid dynamics, active matter, electrohydrodynamics, and biological flows, with a particular emphasis on developing novel computational methods for complex fluids. Many of these problems are motivated by simple physical observations, laboratory experiments, and fundamental questions arising in soft matter and biological fluid mechanics.
+    </p>
+
     <p>
-	We combine expertise in applied and computational mathematics with backgrounds spanning engineering and physics, allowing us to approach these problems from both theoretical and practical perspectives.
+      We combine expertise in applied and computational mathematics with backgrounds spanning engineering and physics, allowing us to approach these problems from both theoretical and practical perspectives.
+    </p>
+
     <p>
-    <p>    
-    	   We are always interested in working with motivated students and postdoctoral researchers, and we welcome opportunities for collaboration with other research groups. Please feel free to get in touch if you would like to discuss potential projects or have any questions.      
+      We are always interested in working with motivated students and postdoctoral researchers, and we welcome opportunities for collaboration with other research groups. Please feel free to get in touch if you would like to discuss potential projects or have any questions.
     </p>
 
     <div class="links">
@@ -37,7 +42,7 @@ title: Home
 <section class="section-card" style="background: #f3e6d8;">
   <h2>News</h2>
   <ul class="news-list">
-    <li><strong>Mar 2026:</strong> The group has received funding from the <a href="https://www.leverhulme.ac.uk/" target="_blank" rel="noopener noreferrer">Leverhulme Trust</a>, which will support an international PhD student and a Postdoctoral Research Associate for a period of three years. Interested candidates are encouraged to email Debasish Das for further information about the project.</li>
+    <li><strong>Mar 2026:</strong> The group has received funding from the <a href="https://www.leverhulme.ac.uk/" target="_blank" rel="noopener noreferrer">Leverhulme Trust</a>, which will support an international PhD student and a Postdoctoral Research Associate for a period of three years. Interested candidates are encouraged to email me for further information about the project.</li>
     <li><strong>Feb 2026:</strong> Michael has started a new position as a systems engineer at Leonardo in Edinburgh. Congratulations, Michael!</li>
     <li><strong>Jan 2026:</strong> Debasish gave a research talk in the Department of Chemical Engineering at Stanford.</li>
     <li><strong>Oct 2025:</strong> Debasish will be teaching a new course on Asymptotic Methods for the Scottish Mathematical Sciences Training Centre (SMSTC). Interested students enrolled at Scottish universities should register via the <a href="https://smstc.ac.uk/" target="_blank" rel="noopener noreferrer">SMSTC website</a>.</li>
