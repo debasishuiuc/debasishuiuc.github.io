@@ -9,7 +9,7 @@ permalink: /openings/
 
   <div style="background: #f3e6d8; border-radius: 16px; padding: 24px; margin-bottom: 28px;">
     <p style="margin-top: 0;">
-      Applications are invited for a <strong>PhD</strong> position and a <strong>PDRA</strong> position under a <strong>Leverhulme-funded project</strong> on <strong>Active Self-Propelled Helices</strong>.
+      Applications are invited for a <strong>PhD</strong> and a <strong>PDRA</strong> position under a <strong>Leverhulme-funded project</strong> on <strong>Active Self-Propelled Helices</strong>.
     </p>
 
     <p>
@@ -25,9 +25,9 @@ permalink: /openings/
   <div style="background: #f3e6d8; border-radius: 16px; padding: 24px; margin-bottom: 28px;">
     <h2 style="margin-top: 0;">PhD position</h2>
 
-    <p>The PhD project is suitable for candidates with a strong Bachelor's degree in mathematics, engineering, physics, or a closely related area. An interest in mathematical modelling, asymptotic methods, partial differential equations, and numerical computation would be particularly valuable. The student will work on analytical and computational approaches to model propulsion and interactions of helical particles in viscous flows. There will be opportunities for the student to attend workshops and present their work at international conferences.</p>
+    <p>The PhD project is suitable for candidates with a strong Bachelor's degree in mathematics, engineering, physics, or a closely related area. A demonstrated interest in mathematical modelling, asymptotic methods, partial differential equations, and numerical computation would be particularly valuable. The student will work on analytical and computational approaches to model propulsion and interactions of helical particles in viscous flows. There will be opportunities for the student to attend workshops and present their work at international conferences.</p>
 
-    <p><strong>International students are welcome to apply.</strong></p>
+    <p><strong>**International students are welcome to apply.**</strong></p>
 
     <h3>Entry requirements</h3>
     <p>
@@ -35,7 +35,7 @@ permalink: /openings/
       <a href="https://www.strath.ac.uk/courses/research/mathematicsstatistics/" target="_blank" rel="noopener noreferrer">https://www.strath.ac.uk/courses/research/mathematicsstatistics/</a>
     </p>
 
-    <p>In particular, you require a first-class or upper second-class UK Honours degree, or overseas equivalent.</p>
+    <p>In particular, applicants should hold a first-class or upper second-class UK Honours degree, or overseas equivalent.</p>
 
     <h3>Desirable qualifications and experience</h3>
     <ul>
@@ -46,8 +46,8 @@ permalink: /openings/
 
     <h3>How to apply</h3>
     <ul>
-      <li>Email me your CV, academic transcripts, the names of two referees, and your Bachelor’s and/or Master’s thesis.</li>
-      <li>Please also arrange for two reference letters to be sent directly to my email address.</li>
+      <li>Email your CV, academic transcripts, the names of two referees, and your Bachelor’s and/or Master’s thesis.</li>
+      <li>Please also arrange for two reference letters to be sent directly to the email address below.</li>
     </ul>
 
     <h3>Application timeline</h3>
@@ -93,14 +93,14 @@ permalink: /openings/
     </p>
 
     <p style="margin-bottom: 0;">
-      I have multiple PhD projects suitable for this scheme. Interested students are encouraged to email me for further details.
+      I have multiple PhD projects suitable for this scheme. Interested students are encouraged to get in touch for further details.
     </p>
   </div>  
 
   <div style="background: #f3e6d8; border-radius: 16px; padding: 24px; margin-bottom: 28px;">
     <h2 style="margin-top: 0;">Informal enquiries</h2>
 
-    <p>Interested candidates are encouraged to email me for further information about the projects.</p>
+    <p>Interested candidates are encouraged to get in touch for further information about the projects.</p>
 
     <p style="margin-bottom: 0;">
       <strong>Debasish Das</strong><br>
