@@ -15,18 +15,12 @@ title: Home
     </div>
 
     <p>
-      We work on problems in applied and computational mathematics, with interests
-      in microscale fluid dynamics, active matter, electrohydrodynamics,
-      biological flows, and developing novel computational methods for
-      complex fluids.
-      Many of these problems are motivated by simple physical observations, laboratory
-      experiments, and questions arising in soft matter and biological fluid mechanics.  
-    </p>
-
+	Our group works on problems in microscale fluid dynamics, active matter, electrohydrodynamics, and biological flows, with a particular emphasis on developing novel computational methods for complex fluids. Many of these problems are motivated by simple physical observations, laboratory experiments, and fundamental questions arising in soft matter and biological fluid mechanics.
     <p>
-      We are always looking for motivated students and post-doctoral researchers to work with, and
-      exploring new collaboration opportunities with established research groups. 
-      Please feel free to get in touch for any queries.
+	We combine expertise in applied and computational mathematics with backgrounds spanning engineering and physics, allowing us to approach these problems from both theoretical and practical perspectives.
+    <p>
+    <p>    
+    	   We are always interested in working with motivated students and postdoctoral researchers, and we welcome opportunities for collaboration with other research groups. Please feel free to get in touch if you would like to discuss potential projects or have any questions.      
     </p>
 
     <div class="links">
