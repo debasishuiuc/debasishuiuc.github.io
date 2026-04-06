@@ -100,7 +100,7 @@ permalink: /openings/
   <div style="background: #f3e6d8; border-radius: 16px; padding: 24px; margin-bottom: 28px;">
     <h2 style="margin-top: 0;">Informal enquiries</h2>
 
-    <p>Interested candidates are encouraged to email me for further information about the project.</p>
+    <p>Interested candidates are encouraged to email me for further information about the projects.</p>
 
     <p style="margin-bottom: 0;">
       <strong>Debasish Das</strong><br>
