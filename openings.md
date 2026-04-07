@@ -95,7 +95,7 @@ permalink: /openings/
     </p>
 
     <p style="margin-bottom: 0;">
-	  Multiple PhD projects are available under this scheme. Interested students are encouraged to contact me for further details.
+	  Multiple PhD projects are available under this scheme. Interested students are encouraged to get in touch for further details.
     </p>
   </div>  
 
