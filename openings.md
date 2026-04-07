@@ -84,7 +84,7 @@ permalink: /openings/
   
   
   <div style="background: #f3e6d8; border-radius: 16px; padding: 24px; margin-bottom: 28px;">
-    <h2 style="margin-top: 0;">Additional PhD opportunities via JARSS</h2>
+    <h2 style="margin-top: 0;">Ongoing PhD opportunities via JARSS</h2>
 
     <p>
       In addition to the Leverhulme-funded PhD position advertised above, there are further PhD opportunities through the <strong>John Anderson Research Studentship Scheme (JARSS)</strong> at the University of Strathclyde.
@@ -95,7 +95,7 @@ permalink: /openings/
     </p>
 
     <p style="margin-bottom: 0;">
-      I have multiple PhD projects suitable for this scheme. Interested students are encouraged to get in touch for further details.
+	  Multiple PhD projects are available under this scheme. Interested students are encouraged to contact me for further details.
     </p>
   </div>  
 
