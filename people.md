@@ -18,9 +18,10 @@ permalink: /people/
         <p>
           Debasish is a Lecturer in Applied Mathematics in the Department of Mathematics and Statistics at the University of
           Strathclyde. He completed a PhD in Mechanical Engineering at the University of California San Diego in 2016,
-          and subsequently held postdoctoral positions at the University of Cambridge. Before moving to UC San Diego,
+          and subsequently held postdoctoral positions in the Department of Applied Mathematics and Theoretical Physics (DAMTP)
+          at the University of Cambridge. Before moving to UC San Diego,
           he studied at the University of Illinois Urbana–Champaign, where he completed an MS in Mechanical Science and
-          Engineering with specialisation in Computational Science and Engineering and also undertook doctoral study. 
+          Engineering with specialisation in Computational Science and Engineering. 
           He holds a B.Tech. in Mechanical Engineering from the National Institute of Technology, Rourkela.
         </p>
       </div>
@@ -42,8 +43,7 @@ permalink: /people/
 
         <p>
           Michael is a PhD student in the Department of Mathematics and Statistics at the University of
-          Strathclyde. He joined the group in 2021. His doctoral work is on electrohydrodynamic interactions of
-          droplets in electric fields.
+          Strathclyde. He joined the group in 2021. He holds a Bachelors degree in Mechanical Engineering from University of Strathclyde. His doctoral work is on electrohydrodynamic interactions of droplets in electric fields.
         </p>
       </div>
 
@@ -64,7 +64,7 @@ permalink: /people/
 
         <p>
           Lauren is a PhD student in the Department of Mathematics and Statistics at the University of
-          Strathclyde. She joined the group in 2022. Her doctoral work focuses on numerical methods for evaporating
+          Strathclyde. She joined the group in 2022. She holds a Bachelors degree in Mathematics from University of Strathclyde. Her doctoral work focuses on numerical methods for evaporating
           drops on inclined surfaces.
         </p>
       </div>
