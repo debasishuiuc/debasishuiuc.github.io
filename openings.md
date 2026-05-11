@@ -27,7 +27,7 @@ permalink: /openings/
 
     <p>The PhD project is suitable for candidates with a strong Bachelor's degree in mathematics, engineering, physics, or a closely related area. A demonstrated interest in mathematical modelling, asymptotic methods, partial differential equations, and numerical computation would be particularly valuable. The student will work on analytical and computational approaches to model propulsion and interactions of helical particles in viscous flows. There will be opportunities for the student to attend workshops and present their work at international conferences.</p>
 
-    <p><strong>**International students are welcome to apply.**</strong></p>
+    <p><strong>International students are welcome to apply.</strong></p>
 
     <h3>Entry requirements</h3>
     <p>
@@ -46,6 +46,12 @@ permalink: /openings/
 
     <h3>How to apply</h3>
     <ul>
+      <li>
+        Apply through the official University of Strathclyde PhD advert:
+        <a href="https://www.strath.ac.uk/studywithus/postgraduateresearchphdopportunities/science/mathematicsstatistics/activeself-propelledhelices/" target="_blank" rel="noopener noreferrer">
+          Active Self-Propelled Helices
+        </a>
+      </li>
       <li>Email your CV, academic transcripts, the names of two referees, and your Bachelor’s and/or Master’s thesis.</li>
       <li>Please also arrange for two reference letters to be sent directly to the email address below.</li>
     </ul>
@@ -75,14 +81,19 @@ permalink: /openings/
     </ul>
 
     <h3>How to apply</h3>
-    <p>A university job advert for the PDRA position will be live soon. Applicants are encouraged to consult the official advert once available for the formal university wording and application procedure. Informal enquiries are welcome. </p>
+    <p>
+      Apply through the official University of Strathclyde vacancy page:
+      <a href="https://strathvacancies.engageats.co.uk/Vacancies/I/6585/0/468090/15019/postdoctoral-research-associate-in-applied-and-computational-mathematics-814375" target="_blank" rel="noopener noreferrer">
+        Postdoctoral Research Associate in Applied and Computational Mathematics (814375)
+      </a>.
+      Informal enquiries are welcome.
+    </p>
 
     <h3>Application timeline</h3>
     <p style="margin-bottom: 0;"><strong>Formal interviews for the PDRA post will be held around mid June 2026.</strong></p>
     <p>Interested candidates are encouraged to get in touch for further information about the project.</p>
   </div>
-  
-  
+
   <div style="background: #f3e6d8; border-radius: 16px; padding: 24px; margin-bottom: 28px;">
     <h2 style="margin-top: 0;">Ongoing PhD opportunities via JARSS</h2>
 
@@ -95,12 +106,11 @@ permalink: /openings/
     </p>
 
     <p style="margin-bottom: 0;">
-	  Multiple PhD projects are available under this scheme. Interested students are encouraged to get in touch for further details.
+      Multiple PhD projects are available under this scheme. Interested students are encouraged to get in touch for further details.
     </p>
-  </div>  
+  </div>
 
-  <div style="background: #f3e6d8; border-radius: 16px; padding: 24px; margin-bottom: 28px;">   
-
+  <div style="background: #f3e6d8; border-radius: 16px; padding: 24px; margin-bottom: 28px;">
     <p style="margin-bottom: 0;">
       <strong>Debasish Das</strong><br>
       Department of Mathematics and Statistics<br>
