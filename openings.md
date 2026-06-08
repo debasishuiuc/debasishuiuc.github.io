@@ -8,8 +8,10 @@ permalink: /openings/
   <h1 class="page-heading">PhD and PDRA Opportunities</h1>
 
   <div style="background: #f3e6d8; border-radius: 16px; padding: 24px; margin-bottom: 28px;">
-    <p style="margin-top: 0;">
-      Applications are invited for a <strong>PhD</strong> and a <strong>PDRA</strong> position under a <strong>Leverhulme-funded project</strong> on <strong>Active Self-Propelled Helices</strong>.
+    <p style="margin-top: 0;"><strong>The PhD position has now been filled.</strong></p>
+
+    <p>
+      Applications are invited for a <strong>PDRA</strong> position under a <strong>Leverhulme-funded project</strong> on <strong>Active Self-Propelled Helices</strong>.
     </p>
 
     <p>
