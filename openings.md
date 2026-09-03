@@ -5,7 +5,11 @@ permalink: /openings/
 ---
 
 <div class="content-page">
-  <h1 class="page-heading">PhD and PDRA Opportunities</h1>
+  <h1 class="page-heading">PhD Opportunities</h1>
+
+<!--
+  LEVERHULME-FUNDED PHD/PDRA TEMPLATE
+  Retained for possible reuse in future recruitment rounds.
 
   <div style="background: #f3e6d8; border-radius: 16px; padding: 24px; margin-bottom: 28px;">
     <p style="margin-top: 0;"><strong>The PhD and PDRA positions have now been filled.</strong></p>
@@ -95,12 +99,13 @@ permalink: /openings/
     <p style="margin-bottom: 0;"><strong>Formal interviews for the PDRA post will be held around mid June 2026.</strong></p>
     <p>Interested candidates are encouraged to get in touch for further information about the project.</p>
   </div>
+-->
 
   <div style="background: #f3e6d8; border-radius: 16px; padding: 24px; margin-bottom: 28px;">
     <h2 style="margin-top: 0;">Ongoing PhD opportunities via JARSS</h2>
 
     <p>
-      In addition to the Leverhulme-funded PhD position advertised above, there are further PhD opportunities through the <strong>John Anderson Research Studentship Scheme (JARSS)</strong> at the University of Strathclyde.
+      PhD opportunities are available through the <strong>John Anderson Research Studentship Scheme (JARSS)</strong> at the University of Strathclyde.
     </p>
 
     <p>

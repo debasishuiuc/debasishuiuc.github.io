@@ -42,8 +42,12 @@ title: Home
 <section class="section-card" style="background: #f3e6d8;">
   <h2>News</h2>
   <ul class="news-list">
-<li><strong>Mar 2026:</strong> The group received funding from the <a href="https://www.leverhulme.ac.uk/" target="_blank" rel="noopener noreferrer">Leverhulme Trust</a> for a fully-funded <strong>PhD</strong> and <strong>PDRA</strong> position. <strong>Both positions have now been filled.</strong> <a href="{{ '/openings/' | relative_url }}">Click here for project details.</a></li>
-    <li><strong>Feb 2026:</strong> Michael has started a new position as a systems engineer at Leonardo in Edinburgh. Congratulations, Michael!</li>
+    <li><strong>Sept 2026:</strong> Dr. Das will be attending the <a href="https://www.we-heraeus-stiftung.de/veranstaltungen/nonlinear-dynamics-and-emergence-across-scales-active-chaotic-and-complex-systems/" target="_blank" rel="noopener noreferrer"><strong>Nonlinear Dynamics and Emergence Across Scales: Active, Chaotic, and Complex Systems</strong></a> conference in Roscoff, Brittany.</li>
+    <li><strong>Jun 2026:</strong> Congratulations to Michael on passing his PhD viva with minor corrections. Michael has joined Leonardo, <a href="https://uk.leonardo.com/en/about/uk-locations/edinburgh" target="_blank" rel="noopener noreferrer"><strong>Edinburgh</strong></a>, as a systems engineer.</li>
+<!--
+    LEVERHULME NEWS TEMPLATE / ARCHIVE
+    <li><strong>Mar 2026:</strong> The group received funding from the <a href="https://www.leverhulme.ac.uk/" target="_blank" rel="noopener noreferrer">Leverhulme Trust</a> for a fully-funded <strong>PhD</strong> and <strong>PDRA</strong> position. <strong>Both positions have now been filled.</strong> <a href="{{ '/openings/' | relative_url }}">Click here for project details.</a></li>
+-->
     <li><strong>Jan 2026:</strong> Debasish gave a research talk in the Department of Chemical Engineering at Stanford.</li>
     <li><strong>Oct 2025:</strong> Debasish will be teaching a new course on Asymptotic Methods for the Scottish Mathematical Sciences Training Centre (SMSTC). Interested students enrolled at Scottish universities should register via the <a href="https://smstc.ac.uk/" target="_blank" rel="noopener noreferrer">SMSTC website</a>.</li>
     <li><strong>Jul 2025:</strong> Debasish gave an invited talk at the 9th International Conference on Micro- and Nano Flows (MNF 2025), held in Edinburgh.</li>
